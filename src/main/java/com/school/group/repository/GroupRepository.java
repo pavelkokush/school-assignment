@@ -1,6 +1,6 @@
-package com.school.repository;
+package com.school.group.repository;
 
-import com.school.model.Group;
+import com.school.group.model.Group;
 
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package com.school.model;
+package com.school.group.model;
 
 import java.util.Objects;
 import java.util.Optional;

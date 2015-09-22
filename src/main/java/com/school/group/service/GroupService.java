@@ -1,8 +1,8 @@
-package com.school.service;
+package com.school.group.service;
 
-import com.school.model.Group;
-import com.school.model.Student;
-import com.school.repository.GroupRepository;
+import com.school.group.model.Group;
+import com.school.group.model.Student;
+import com.school.group.repository.GroupRepository;
 
 import java.util.Set;
 import java.util.function.Predicate;

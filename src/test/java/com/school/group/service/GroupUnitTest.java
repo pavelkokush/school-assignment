@@ -1,11 +1,11 @@
-package com.school.service;
+package com.school.group.service;
 
-import com.school.model.Group;
-import com.school.model.SchoolClass;
-import com.school.model.Student;
-import com.school.model.Subject;
-import com.school.repository.mock.GroupRepositoryMock;
-import com.school.repository.mock.StudentRepositoryMock;
+import com.school.group.model.Group;
+import com.school.group.model.SchoolClass;
+import com.school.group.model.Student;
+import com.school.group.model.Subject;
+import com.school.group.repository.mock.GroupRepositoryMock;
+import com.school.group.repository.mock.StudentRepositoryMock;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;

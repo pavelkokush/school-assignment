@@ -1,7 +1,7 @@
-package com.school.service;
+package com.school.group.service;
 
-import com.school.model.Student;
-import com.school.repository.StudentRepository;
+import com.school.group.model.Student;
+import com.school.group.repository.StudentRepository;
 
 import java.util.Set;
 

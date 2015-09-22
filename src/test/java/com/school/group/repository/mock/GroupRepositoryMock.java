@@ -1,7 +1,7 @@
-package com.school.repository.mock;
+package com.school.group.repository.mock;
 
-import com.school.model.Group;
-import com.school.repository.GroupRepository;
+import com.school.group.model.Group;
+import com.school.group.repository.GroupRepository;
 
 import java.util.Map;
 import java.util.Set;
